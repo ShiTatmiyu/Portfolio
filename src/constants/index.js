@@ -137,9 +137,9 @@ import {
       ],
     },
     {
-      title: "Global GameJam",
+      title: "Global GameJam Indonesia",
       company_name: "Indie Games Group Indonesia",
-      icon: tesla,
+      icon: meta,
       iconBg: "#E6DEDD",
       date: "January 2024",
       points: [

@@ -24,6 +24,9 @@ import {
     tripguide,
     threejs,
     photo,
+    bagas,
+    rocket,
+    noimg,
   } from "../assets";
   
   export const navLinks = [
@@ -114,8 +117,8 @@ import {
     {
       title: "Internship",
       company_name: "Ginvo Studio",
-      icon: tesla,
-      iconBg: "#383E56",
+      icon: starbucks,
+      iconBg: "#E6DEDD",
       date: "September 2023 - March 2024",
       points: [
         "learning game development with Unity Game Engine.",
@@ -148,7 +151,7 @@ import {
       title: "Competence Test",
       company_name: "Smkn 1 Ciomas",
       icon: shopify,
-      iconBg: "#383E56",
+      iconBg: "#E6DEDD",
       date: "Feb 2024",
       points: [
         "Creating a game prototype with Unity Game Engine.",
@@ -262,7 +265,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: bagas,
       source_code_link: "https://github.com/ShiTatmiyu/Mr.Umbrella",
     },
     {
@@ -283,7 +286,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: rocket,
       source_code_link: "https://github.com/ShiTatmiyu/Mr.Umbrella",
     },
     {
@@ -304,7 +307,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: noimg,
       source_code_link: "https://github.com/ShiTatmiyu/Mr.Umbrella",
     },
   ];

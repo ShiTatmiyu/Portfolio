@@ -29,6 +29,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import noimg from "./no-images.png";
+import rocket from "./Rocket.png";
+import bagas from "./bagas.png";
 
 import photo from "./default.png";
 
@@ -61,5 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
-  photo
+  photo,
+  noimg,
+  rocket,
+  bagas,
 };
